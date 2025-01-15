@@ -1,0 +1,44 @@
+[
+  {
+    "DersAdi": "Programlama 1",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+      "Bolum": "Bilgisayar M\u00FChendisli\u011Fi",
+      "Isim": "erkan ayd\u0131n"
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": "13",
+        "Isim": "Furkan"
+      }
+    ]
+  },
+  {
+    "DersAdi": "Veri analiti\u011Fi",
+    "Kredi": 4,
+    "OgretimGorevlisi": {
+      "Bolum": "programlama",
+      "Isim": "Refik tanju sirmen "
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": "2",
+        "Isim": "Arda "
+      }
+    ]
+  },
+  {
+    "DersAdi": "data ",
+    "Kredi": 2,
+    "OgretimGorevlisi": {
+      "Bolum": "Bilgisayar M\u00FChendisli\u011Fi",
+      "Isim": "erkan ayd\u0131n"
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": "13",
+        "Isim": "Furkan"
+      }
+    ]
+  }
+]
